@@ -1,0 +1,28 @@
+.music-player {
+    text-align: center;
+    margin: 100px;
+}
+body {
+   
+    background:url('musicplayer.jpeg');
+    background-size: cover;
+    background-size: 1200px 700px;
+   
+}
+
+h1 {
+    font-size: 140px;
+}
+
+.control-button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 60px 80px;
+    margin: 30px;
+    cursor: pointer;
+}
+
+#volume {
+    width: 100%;
+}
